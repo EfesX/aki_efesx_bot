@@ -3,21 +3,21 @@ Akinator Telegram-Bot
 
 @aki_efesx_bot
 
-Бот реализует функционал Акинатора из известной [игры] https://akinator.com/
+Бот реализует функционал Акинатора из известной [игры](https://akinator.com/)
 
-Бекэнд развернут на облачных сервисах [Yandex.Cloud] https://cloud.yandex.ru/
+Бекэнд развернут на облачных сервисах [Yandex.Cloud](https://cloud.yandex.ru/)
 
 Задействованные облачные ресурсы:
 ---------------------------------
-* [YandexCloudFunction] https://cloud.yandex.ru/services/functions
-* [YandexManagedServiceForYDB] https://cloud.yandex.ru/services/ydb
-* [YandexAPIGateway] https://cloud.yandex.ru/services/api-gateway
+* [YandexCloudFunction](https://cloud.yandex.ru/services/functions)
+* [YandexManagedServiceForYDB](https://cloud.yandex.ru/services/ydb)
+* [YandexAPIGateway](https://cloud.yandex.ru/services/api-gateway)
 
 Задействованные библиотеки:
 ---------------------------------
-* [akinator.py] https://github.com/NinjaSnail1080/akinator.py
-* [pyTelegramBotAPI] https://pypi.org/project/pyTelegramBotAPI/
-* [ydb-python-sdk] https://github.com/ydb-platform/ydb-python-sdk
+* [akinator.py](https://github.com/NinjaSnail1080/akinator.py)
+* [pyTelegramBotAPI](https://pypi.org/project/pyTelegramBotAPI/)
+* [ydb-python-sdk](https://github.com/ydb-platform/ydb-python-sdk)
 
 Описание работы:
 ---------------------------------
