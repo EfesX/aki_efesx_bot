@@ -1,0 +1,11 @@
+openapi: 3.0.0
+info:
+  title: api-for-aki-efesx-bot
+  version: 1.0.0
+paths:
+  /:
+    post:
+      x-yc-apigateway-integration:
+        type: cloud-functions
+        function_id: d4e78hdq81im2ajrtb7s
+      operationId: tg-akinator

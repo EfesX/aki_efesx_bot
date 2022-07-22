@@ -1,0 +1,7 @@
+app/cloud_function/__pycache__
+app/cloud_function/function.zip
+app/cloud_function/secrets.env
+app/cloud_function/start_app.sh
+app/cloud_function/yc-create-function.sh
+app/set-webhook.sh
+cloud-setup.sh
